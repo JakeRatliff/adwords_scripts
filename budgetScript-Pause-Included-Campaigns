@@ -1,4 +1,5 @@
 // Author: Jake Ratliff, June 2019. Updated August 2021, April 2024. 
+
 //This version of the script checks campaigns by label, and if that label is in "INCLUDED_LABELS",
 //then its spend is tallied in the total monthly spend.
 //If monthly spend of the campaigns with your in is equal or greater than MONTHLY_BUDGET
